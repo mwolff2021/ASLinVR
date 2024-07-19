@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sigml> 
+	<hns_sign gloss="E"> 
+		<hamnosys_nonmanual/>
+		<hamnosys_manual> 
+			<hamfinger2345/> 
+			<hamthumbacross/> 
+			<hamdoublehooked/>
+		</hamnosys_manual>
+	</hns_sign> 
+</sigml> 
+

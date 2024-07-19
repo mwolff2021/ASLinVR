@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sigml>
+	<hns_sign gloss="A">
+		<hamnosys_nonmanual/>
+		<hamnosys_manual>
+			<hamfist/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

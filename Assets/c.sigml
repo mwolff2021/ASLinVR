@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sigml>
+<hns_sign gloss="C">
+	<hamnosys_nonmanual/>
+		<hamnosys_manual>
+			<hamceeall/>
+			<hampalml/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>
